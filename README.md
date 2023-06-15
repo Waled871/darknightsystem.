@@ -1,18 +1,23 @@
-Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+Rules for users
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+The first and only rule is to use common sense in everything you do. Just behave in a respectful way to everything and everyone, and you will be fine. If a moderator notices that you are not, they can and will take action. In particular, we expect all of this from you:
 
-Children's Information
+• Be respectful to each other. You might disagree with someone, but that doesn't mean you get to try and make them feel unwelcome here.
 
-Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+    - In particular, this includes new people. If you don't have anything nice or helpful to say, don't say anything at all.
 
-ProtectBot does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+    - Political/controversial/potentially charged topics are allowed, so long as those discussions remain civil.
 
-Online Privacy Policy Only
+• Don't use slurs, not even if you are a part of the group the slur is directed at. Even if you use one as a "joke," you will be banned without warning.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in ProtectBot. This policy is not applicable to any information collected offline or via channels other than this website.
+• Let mods handle mod stuff. We appreciate that you want to help, but please, ping a moderator, even for small stuff. It's what we're here for.
 
-Consent
+Also, this is a SFW server. That includes both images and text. If you're not sure if something might be NSFW, lean towards not posting it, or ask a mod first.
 
-By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
+Reporting something to the moderation team:
 
+• To report a misbehaving/spamming bot, use the command pls pinghelpers in the channel where it happens, together with a short note about what is happening.
+
+• To report a misbehaving user, use pls pingmods in the channel where it is happening, also together with a short explanation of what is going on.
+
+• To report anything else, DM @MW AHMAD  which is our custom modmail bot. This way, all moderators will see it at once.
